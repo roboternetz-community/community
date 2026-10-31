@@ -50,4 +50,4 @@ Klickt oben auf **[Discussions](../../discussions)** und legt los:
 
 ---
 *Initiator: Moppi (Torsten Frieser / @automatician)*  
-*Rechtlicher Hinweis: Dies ist eine private, nicht-kommerzielle Initiative langjähriger Community-Mitglieder zur Pflege des Austauschs, zur Bildung und Forschung. Es besteht keine geschäftliche Verbindung zum ehemaligen Betreiber.*
+*Rechtlicher Hinweis: Dies ist eine private, nicht-kommerzielle Initiative langjähriger Community-Mitglieder zur Pflege des Austauschs, zur Bildung und Forschung. Es besteht keine geschäftliche Verbindung zum ehemaligen Betreiber von Roboternetz.de*
