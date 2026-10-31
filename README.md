@@ -27,7 +27,7 @@ Im November 2026 geht die Ära der bisherigen Plattform zu Ende. Damit der wertv
 
 ---
 
-## 🛠️ Die Zukunft: Der Aufbau einer Nachfolge-Plattform
+## 🛠️ Der Aufbau einer Nachfolge-Plattform
 
 Jeder, der mit offenen Augen durch die Forenlandschaft geht, weiß: *Roboternetz.de* hatte über die letzten Jahre massive technische Schulden angehäuft und war in seiner bisherigen 2003er-Struktur schlicht nicht mehr zukunftsfähig.
 
