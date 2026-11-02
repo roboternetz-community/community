@@ -15,7 +15,7 @@ Klicke oben auf den Reiter **[Discussions](../../discussions)**, um alte Bekannt
 
 ## ❤️ Ein herzlicher Dank für 23 Jahre Roboternetz (2003 – 2026)
 
-Am 30. Oktober 2003 ging das *Roboternetz.de* online. Über mehr als zwei Jahrzehnte hinweg war es die zentrale Heimat für Elektroniker, Bastler, Studenten und Robotik-Begeisterte im deutschsprachigen Raum.
+Über mehr als zwei Jahrzehnte hinweg war es die zentrale Heimat für Elektroniker, Bastler, Studenten und Robotik-Begeisterte im deutschsprachigen Raum.
 
 Ein großer Dank gebührt all den Pionieren, Stamm-Autoren und hilfsbereiten Mitgliedern, die dieses Forum und das Wissensportal über Jahre hinweg mit Leben gefüllt haben – darunter geschätzte Urgesteine wie **HaWe**, **oberallgeier**, **Manf**, **Searcher**, **Dirk**, **radbruch**, **021aet04 (Hannes)** und unzählige andere.
 
