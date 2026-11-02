@@ -40,6 +40,15 @@ Damit die Gemeinschaft nicht im luftleeren Raum hängenbleibt, gehe ich voran: *
 * **Euer Beitrag:**  
   Umso mehr Alt- und Neu-User sich hier einbringen, austauschen und mitgestalten, desto schneller wird die neue Plattform als vollwertige Heimat greifbar.
 
+### 📊 Das Wissens-Fundament (Sicherung & technische Auswertung)
+
+Um das über 23 Jahre gewachsene physikalische und mechatronische Erfahrungswissen vor dem endgültigen Vergessen zu bewahren, habe ich in den vergangenen Tagen **über 24 Stunden Entwicklungsarbeit** investiert, um den Datenbestand für Forschungs- und Analyseszwecke zu sichern:
+
+* **Wissenschaftliche Datenbasis (§ 44b UrhG):** Wiki-Artikel, Schaltpläne und Fachthemen als unveränderliche, interne Offline-Referenz (Ground Truth).
+* **Rechtliche Klarstellung (Kein 1:1-Re-Upload, keine unerlaubte Neuveröffentlichung oder gar direkte Verwertung):** Aus Respekt vor dem Urheberrecht der ursprünglichen Autoren und geltenden Datenschutzgesetzen findet **keine unautorisierte 1:1-Veröffentlichung fremder Altbeiträge oder Archive** statt. Ihr wisst dass dies vom alten Betreiber nicht erwünscht war. Und seien wir ehrlich: in der heutigen Zeit sollten Plattformen und Foren keine Dokumentationen von ehemaligen Diskussionen sein, die ihren berechtigten Kontext zu ihrer Zeit hatten. Eine Neuausrichtung kommt auch ohne Uraltthreads zurecht. 
+* **Kontext statt Kopie:** Die geretteten Messdaten und physikalischen Prinzipien dienen als interne Wissensbasis, um eine neue Plattform inhaltsgerecht weiterzuführen.
+* ✍️ **Autoren-Souveränität:** Ehemalige Autoren, die ihre eigenen damaligen Projekte und Bauanleitungen auf der neuen Plattform freiwillig neu veröffentlichen oder weiterführen möchten, unterstütze ich gerne bei der Aufbereitung.
+
 ---
 
 ## 🤝 Macht mit im Forum:
