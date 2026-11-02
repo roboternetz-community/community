@@ -42,7 +42,7 @@ Damit die Gemeinschaft nicht im luftleeren Raum hängenbleibt, gehe ich voran: *
 
 ### 📊 Das Wissens-Fundament (Sicherung & technische Auswertung)
 
-Um das über 23 Jahre gewachsene physikalische und mechatronische Erfahrungswissen vor dem endgültigen Vergessen zu bewahren, habe ich in den vergangenen Tagen **über 24 Stunden Entwicklungsarbeit** investiert, um den Datenbestand für Forschungs- und Analyseszwecke zu sichern:
+Um das über 23 Jahre gewachsene physikalische und mechatronische Erfahrungswissen vor dem endgültigen Vergessen zu bewahren, habe ich in den vergangenen Tagen **über 24 Stunden Entwicklungsarbeit** bisher investiert, um den Datenbestand für Forschungs- und Analyseszwecke zu sichern und zumindest diese Übergangs-Community hier zu schaffen:
 
 * **Wissenschaftliche Datenbasis (§ 44b UrhG):** Wiki-Artikel, Schaltpläne und Fachthemen als unveränderliche, interne Offline-Referenz (Ground Truth).
 * **Rechtliche Klarstellung (Kein 1:1-Re-Upload, keine unerlaubte Neuveröffentlichung oder gar direkte Verwertung):** Aus Respekt vor dem Urheberrecht der ursprünglichen Autoren und geltenden Datenschutzgesetzen findet **keine unautorisierte 1:1-Veröffentlichung fremder Altbeiträge oder Archive** statt. Ihr wisst dass dies vom alten Betreiber nicht erwünscht war. Und seien wir ehrlich: in der heutigen Zeit sollten Plattformen und Foren keine Dokumentationen von ehemaligen Diskussionen sein, die ihren berechtigten Kontext zu ihrer Zeit hatten. Eine Neuausrichtung kommt auch ohne Uraltthreads zurecht. 
