@@ -1,6 +1,9 @@
 # Roboternetz-Community:<br>Das offene Auffangbecken & Die Zukunft der Robotik 
 
-
+### 📬 Direkter Kontakt & Fragen:
+Da das private Nachrichtensystem im alten Roboternetz vor der Schließung nicht mehr zuverlässig funktioniert:  
+* **E-Mail:** `famfrieser@vodafonemail.de`  
+* **Austausch:** Direkt hier im Reiter **[Discussions](../../discussions)**
 
 > **„Von Mitgliedern für Mitglieder – Das Wissen und der Austausch leben weiter!“**  
 > *Eine unabhängige Initiative zum Erhalt von 23 Jahren Bastler- und Entwicklerkultur sowie zum Aufbau einer modernen mechatronischen Zukunft.*
