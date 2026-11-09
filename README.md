@@ -1,5 +1,9 @@
 # Roboternetz-Community:<br>Das offene Auffangbecken & Die Zukunft der Robotik 
 
+## Moppis offizielle Chronik nach eingehender Recherche des Forumdatenbestandes
+Ihr findet die Chronik hier: https://github.com/roboternetz-community/community/blob/main/CHRONIK.md
+Roboternetz.de zeigte über viele Jahre gesammelte Anmeldungen als Mitgliederzahl und Seitenzugriffe als aktive Nutzer. Das war nichtssagend, weil daraus nie die echten Nutzerzahlen des Forums hervorgingen. Unter den gesamten Anmeldungen auf Roboternetz von >70.000 findet sich eine große Masse an Spam-Bots, Roboternetz eigenen Bots, um Inhalt zu erzeugen und Anmeldungen nur um Inhalte zu lesen. Die Tatsächlich aktive Zahl der Nutzer war weit geringer, bis ca. 2000 max.  
+
 ### 📬 Direkter Kontakt & Fragen:
 Da das private Nachrichtensystem im alten Roboternetz vor der Schließung nicht mehr zuverlässig funktioniert:  
 * **E-Mail:** `famfrieser@vodafonemail.de`  
@@ -26,7 +30,7 @@ Ein großer Dank gebührt all den Pionieren, Stamm-Autoren und hilfsbereiten Mit
 Im November 2026 geht die Ära der bisherigen Plattform zu Ende. Damit der wertvolle Austausch, die Kontakte und der Geist der Community nicht einfach verloren gehen, dient dieser Bereich als **unbürokratisches, offenes Übergangs-Auffangbecken**.
 
 * **Freier Austausch:** Hier darf sachlich, unzensiert und auf Augenhöhe über Schaltungen, Mechanik, Sensorik und Software diskutiert werden.
-* **Wissens-Erhalt:** Die bewährten technischen Grundlagen, Schaltungsprinzipien und das Erfahrungswissen aus über zwei Jahrzehnten sollen für Bildung, Forschung und die Praxis erhalten bleiben.
+* **Wissens-Erhalt:** Die bewährten technischen Grundlagen, Schaltungsprinzipien und das Erfahrungswissen aus über zwei Jahrzehnten sollen für Bildung, Forschung und die Praxis im Hintergrund erhalten bleiben.
 
 ---
 
