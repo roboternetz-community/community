@@ -94,7 +94,7 @@ Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltu
 | **#24** | **Florian** | **2.474** | 2004 | Frühe Bascom- und AVR-Entwicklung. |
 | **#25** | **Klingon77** | **2.432** | 2006 | Metallbau, Fräsen & Passungen. |
 | **#26** | **Andree-HB** | **2.428** | 2004 | 22 Jahre Treue von Tag 1 an. |
-| **#27** | **Moppi** | **2.416** | 2018 | **#1 der Spätphase:** FFN, Tandem-Achsen & V-CPU. |
+| **#27** | **Moppi** | **2.416** | 2018 | **mit an der Spitze der Spätphase** |
 | **#28** | **recycle** | **2.367** | 2004 | Frühe Schaltungstechnik. |
 | **#29** | **wkrug** | **2.278** | 2006 | Hardware-Ikone & aktivster Autor bis 2026. |
 | **#30** | **squelver** | **2.231** | 2006 | Sensorik und Embedded C. |
