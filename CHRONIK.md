@@ -5,7 +5,7 @@
 
 ---
 
-## 📈 1. Das EKG des Forums: Aktive Autoren pro Jahr (2003 – 2026)
+## 1. Das EKG des Forums: Aktive Autoren pro Jahr (2003 – 2026)
 
 Das folgende Diagramm visualisiert die Lebenskurve der Community. Erfasst sind alle Mitglieder, die im jeweiligen Jahr **mehr als 3 Beiträge** verfasst haben:
 
@@ -47,7 +47,7 @@ xychart-beta
 
 ---
 
-## 📊 2. Die Gesamtanalyse: Die Pyramide der Beteiligung
+## 2. Die Gesamtanalyse: Die Pyramide der Beteiligung
 
 In den 23 Jahren des Bestehens wurden **über 620.000 Fachbeiträge** in rund **66.600 Diskussionsthemen** verfasst.  
 Entgegen der nominellen Zahl von über 73.000 registrierten Benutzerkonten belegt die unbestechliche Datenanalyse, dass die Plattform von **22.012 tatsächlichen Autoren** getragen wurde:
@@ -62,9 +62,9 @@ Entgegen der nominellen Zahl von über 73.000 registrierten Benutzerkonten beleg
 
 ---
 
-## 🏆 3. Die Ewige Hall of Fame: Die 30 produktivsten Autoren aller Zeiten
+## 3. Die Ewige Hall of Fame: Die 30 produktivsten Autoren aller Zeiten
 
-Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltungen und Lösungsansätze hinterlassen:
+Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltungen und Lösungsansätze hinterlassen 🏆:
 
 | Rang | Mitglied | Beiträge (Gesamt) | Erste Aktivität | Historische Rolle |
 | :---: | :--- | :---: | :---: | :--- |
