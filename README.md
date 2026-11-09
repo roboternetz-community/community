@@ -3,7 +3,7 @@
 ## Moppis offizielle Chronik nach eingehender Recherche des Forumdatenbestandes
 Ihr findet die Chronik hier: https://github.com/roboternetz-community/community/blob/main/CHRONIK.md
 
-Roboternetz.de zeigte über viele Jahre gesammelte Anmeldungen als Mitgliederzahl und Seitenzugriffe als aktive Nutzer. Das war nichtssagend, weil daraus nie die echten Nutzerzahlen des Forums hervorgingen. Unter den gesamten Anmeldungen auf Roboternetz von >70.000 findet sich eine große Masse an Spam-Bots, Roboternetz eigenen Bots, um Inhalt zu erzeugen und Anmeldungen nur um Inhalte zu lesen. Die tatsächlich aktive Zahl der Nutzer war weit geringer, bis ca. 2000 max.  
+Roboternetz.de zeigte über viele Jahre gesammelte Anmeldungen als Mitgliederzahl und Seitenzugriffe als aktive Nutzer. Das war nichtssagend, weil daraus nie die echten Nutzerzahlen des Forums hervorgingen. Unter den gesamten Anmeldungen auf Roboternetz von >70.000 findet sich eine große Masse an Spam-Bots, Roboternetz eigenen Bots, um Inhalt zu erzeugen und Anmeldungen nur um Inhalte zu lesen. Die tatsächlich aktive Zahl der Nutzer war weit geringer, bis ca. 20.000 über 23 Jahre.  
 
 ### 📬 Direkter Kontakt & Fragen:
 Da das private Nachrichtensystem im alten Roboternetz vor der Schließung nicht mehr zuverlässig funktioniert:  
