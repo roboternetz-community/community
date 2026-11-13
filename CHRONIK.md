@@ -42,7 +42,7 @@ xychart-beta
 2023: ▏ (31)
 2024: ▏ (27)
 2025: ▏ (14)
-2026: ▏ (16)   <-- Das Finale & die Bergung
+2026: ▏ (16)   <-- Das Finale Ende
 ```
 
 ---
