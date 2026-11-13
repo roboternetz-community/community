@@ -292,7 +292,7 @@ Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltu
 ---
 
 ### 🗓️ 2022 — 46 aktive Autoren
-* **Historischer Kontext:** Nur noch 46 aktive Macher. Frank fokussiert sich primär auf seinen YouTube-Kanal (@tueftler).
+* **Historischer Kontext:** Nur noch 46 aktive Nutzer.
 * **Die technischen Meilensteine:**
   1. **Raspberry Pi Pico (RP2040):** Der 1-Euro-Dual-Core mit frei programmierbaren PIO-Zustandsmaschinen.
   2. **Balkonkraftwerk-Welle:** Das Forum diskutiert vermehrt über Wechselrichter (Hoymiles) und Einspeisung.
@@ -302,7 +302,7 @@ Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltu
 ### 🗓️ 2023 — 31 aktive Autoren
 * **Historischer Kontext:** Manf zieht sich Ende 2023 zunehmend zurück. Inkas letzte YouTube-Videos und Forenbeiträge. Kaum noch 30 Aktive.
 * **Die technischen Meilensteine:**
-  1. **Inkas Video '2023_03_01':** Georgs letztes Projekt: Der faltbare Solar-Mecanum-Rover.
+  1. **Inkas Video** vorerst letztes Projekt: Der faltbare Solar-Mecanum-Rover.
   2. **ChatGPT & LLM-Explosion:** Das weltweite Ende reiner Frage-Antwort-Foren zeichnet sich ab.
   3. **SimpleFOC auf BLDC:** Bürstenlose Motoren mit FOC-Regelung verdrängen Schrittmotoren in High-End-Gelenken.
 
@@ -325,7 +325,6 @@ Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltu
 ---
 
 ## 🤝 Unser Dank und der Blick nach vorn
-
 Allen voran gebührt **Manf** (mit über 11.600 unermüdlichen Fachbeiträgen die unangefochtene Seele des Forums), **PICture**, **oberallgeier**, **Besserwessi**, **PicNick**, **radbruch**, **021aet04**, **HaWe**, **wkrug**, **Inka**, **Moppi** und all den ungenannten Pionieren unser tiefster Dank für 23 Jahre geteiltes Wissen.
 
 Das alte Forum mag seine Tore schließen – aber euer Geist leben in der unabhängigen Community weiter!
