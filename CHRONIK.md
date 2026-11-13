@@ -318,12 +318,10 @@ Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltu
 ---
 
 ### 🗓️ 2025 — 14 aktive Autoren
-* **Historischer Kontext:** Das Forum erreicht mit nur 14 aktiven Autoren den historischen Tiefpunkt. Administrative Lethargie.
+* **Historischer Kontext:** Das Forum erreicht mit nur 14 aktiven Autoren den historischen Tiefpunkt.
 * **Die technischen Meilensteine:**
   1. **Feetech STS3215 Bus-Servos:** Etablieren sich in der Welt als offener Standard für bezahlbare Roboterarme.
-  2. **Schwere Schlafapnoe & Inkas Wechsel ins Repair Café:** Georg Kania repariert Haushaltsgeräte in Pirna.
-  3. **HomeAssistant OS auf Mini-PCs:** Verdrängt eigenständige Bastler-Gateways im Smart-Home-Bereich.
-
+ 
 ---
 
 ## 🤝 Unser Dank und der Blick nach vorn
