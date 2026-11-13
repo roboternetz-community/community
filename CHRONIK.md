@@ -1,6 +1,6 @@
 # 23 Jahre Roboternetz.de (2003 – 2026): Das Große Mechatronik-Jahrbuch & Die Ewige Hall of Fame
 
-> **„Nicht die Systeme machen eine Gemeinschaft aus, sondern die Menschen, die ihr Wissen teilen.“**  
+> **Hinweis: Diese Auswertung dient der historischen Dokumentation der Community. Sollte ein ehemaliges Mitglied die Entfernung seines Foren-Nicknames wünschen, genügt eine kurze Nachricht über GitHub Issues.**  
 > *Eine datenbasierte historische Retrospektive über 23 Jahre deutsche Mechatronik- und Robotik-Kultur.*
 
 ---
