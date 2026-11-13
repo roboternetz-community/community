@@ -56,7 +56,7 @@ Entgegen der nominellen Zahl von über 73.000 registrierten Benutzerkonten – d
 | :--- | :---: | :---: | :--- |
 | **Einmal-Fragesteller (Eintagsfliegen)** | **5.795** | **26,3 %** | Ein einziges Problem gelöst und nie wiedergekehrt. |
 | **Gelegenheits-Fragesteller (2 bis 9 Posts)** | **10.645** | **48,4 %** | Punktuelle Fragen bei akuten Bastelprojekten. |
-| **Engagierte Bastler (10 bis 99 Posts)** | **4.667** | **21,2 %** | Regelmäßige Werkstatt-Teilnehmer. |
+| **Engagierte Bastler (10 bis 99 Posts)** | **4.667** | **21,2 %** | Regelmäßige Teilnehmer. |
 | **Aktive Stamm-Macher (100 bis 999 Posts)** | **808** | **3,7 %** | Das verlässliche Rückgrat der Fachforen. |
 | 👑 **Die Ewige Elite (über 1.000 Beiträge)** | **97** | **0,4 %** | **Die 97 Pioniere, die das gesamte Forum getragen haben!** |
 
