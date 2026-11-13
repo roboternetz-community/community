@@ -50,7 +50,7 @@ xychart-beta
 ## 2. Die Gesamtanalyse: Die Pyramide der Beteiligung
 
 In den 23 Jahren des Bestehens wurden **über 620.000 Fachbeiträge** in rund **66.600 Diskussionsthemen** verfasst.  
-Entgegen der nominellen Zahl von über 73.000 registrierten Benutzerkonten belegt die unbestechliche Datenanalyse, dass die Plattform von **22.012 tatsächlichen Autoren** getragen wurde:
+Entgegen der nominellen Zahl von über 73.000 registrierten Benutzerkonten – die über die tatsächliche Zahl aktiver Mitglieder hinwegtäuschte – belegt die Datenanalyse, dass die Plattform von 22.012 tatsächlichen Autoren getragen wurde:
 
 | Beteiligungs-Kategorie | Anzahl Autoren | Anteil | Bedeutung für die Community |
 | :--- | :---: | :---: | :--- |
