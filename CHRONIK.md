@@ -75,7 +75,7 @@ Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltu
 | **#05** | **PicNick** | **6.564** | 2004 | Software- und Steuerungs-Pionier. |
 | **#06** | **Hubert.G** | **6.174** | 2006 | Hardware- und Motortreiber-Spezialist. |
 | **#07** | **radbruch** | **5.387** | 2006 | Der legendäre Asuro-Tuner und langjährige Moderator. |
-| **#08** | **021aet04 (Hannes)**| **4.833** | 2009 | Treuer Stammuser und Helfer der Neuzeit. |
+| **#08** | **021aet04**| **4.833** | 2009 | Treuer Stammuser und Helfer der Neuzeit. |
 | **#09** | **HaWe** | **4.655** | 2014 | Dominanter Beitrags-Schreiber der Jahre 2016–2019. |
 | **#10** | **Richard** | **4.274** | 2006 | Analoge Schaltungstechnik & Praxis. |
 | **#11** | **uwegw** | **4.157** | 2005 | Pionier der 2000er-Jahre. |
@@ -164,7 +164,7 @@ Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltu
 ---
 
 ### 🗓️ 2009 — 1.648 aktive Autoren
-* **Historischer Kontext:** Der Arexx RP6 etabliert sich als Standard-Forschungsplattform. Hannes (021aet04) stößt zur Kern-Community.
+* **Historischer Kontext:** Der Arexx RP6 etabliert sich als Standard-Forschungsplattform.
 * **Die technischen Meilensteine:**
   1. **RP6-M32 & RP6-WIFI:** Erweiterungsplatinen bringen den RP6 ins heimische WLAN.
   2. **BMA020 / ITG3200:** Erste günstige MEMS-Beschleunigungssensoren und Gyroskope via I2C.
@@ -326,6 +326,6 @@ Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltu
 
 ## 🤝 Unser Dank und der Blick nach vorn
 
-Allen voran gebührt **Manf** (mit über 11.600 unermüdlichen Fachbeiträgen die unangefochtene Seele des Forums), **PICture**, **oberallgeier**, **Besserwessi**, **PicNick**, **radbruch**, **Hannes (021aet04)**, **HaWe**, **wkrug**, **Inka**, **Moppi** und all den ungenannten Pionieren unser tiefster Dank für 23 Jahre geteiltes Wissen.
+Allen voran gebührt **Manf** (mit über 11.600 unermüdlichen Fachbeiträgen die unangefochtene Seele des Forums), **PICture**, **oberallgeier**, **Besserwessi**, **PicNick**, **radbruch**, **021aet04**, **HaWe**, **wkrug**, **Inka**, **Moppi** und all den ungenannten Pionieren unser tiefster Dank für 23 Jahre geteiltes Wissen.
 
 Das alte Forum mag seine Tore schließen – aber euer Geist leben in der unabhängigen Community weiter!
