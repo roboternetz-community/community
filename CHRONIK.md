@@ -3,6 +3,7 @@
 > **Hinweis: Diese Auswertung dient der historischen Dokumentation der Community. Sollte ein ehemaliges Mitglied die Entfernung seines Foren-Nicknames wünschen, genügt eine kurze Nachricht über GitHub Issues.**  
 > *Eine datenbasierte historische Retrospektive über 23 Jahre deutsche Mechatronik- und Robotik-Kultur.*
 
+ACHTUNG: Die Auswertung ist unverbindlich und beruht auf den Datenbeständen von Roboternetz.de, die öffentlich zugänglich waren. Beiträge der User wurden per Script gezählt.
 ---
 
 ## 1. Das EKG des Forums: Aktive Autoren pro Jahr (2003 – 2026)
