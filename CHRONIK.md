@@ -66,7 +66,7 @@ Entgegen der nominellen Zahl von über 73.000 registrierten Benutzerkonten – d
 
 ## 3. Die Ewige Hall of Fame: Die 30 produktivsten Autoren aller Zeiten
 
-Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltungen und Lösungsansätze hinterlassen 🏆:
+Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltungen und Lösungsansätze hinterlassen 🏆. Daten durch KI ausgewertet und bereit gestellt:
 
 | Rang | Mitglied | Beiträge (Gesamt) | Erste Aktivität | Historische Rolle |
 | :---: | :--- | :---: | :---: | :--- |
