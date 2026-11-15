@@ -36,7 +36,7 @@ xychart-beta
 2017: █ (206)
 2018: █ (178)  <-- Moppi steigt ein (Sofort #2)
 2019: █ (111)  <-- Moppi (#2) & HaWe tragen das Forum
-2020: █ (99)   <-- Moppi (#1 mit 769 Posts)
+20: █ (99)   <-- Moppi (#1 mit 769 Posts)
 2021: ▏ (58)
 2022: ▏ (46)
 2023: ▏ (31)
@@ -75,7 +75,7 @@ Diese Mitglieder haben über zwei Jahrzehnte hinweg die tiefsten Spuren, Schaltu
 | **#05** | **PicNick** | **6.564** | 2004 | Software- und Steuerungs-Pionier. |
 | **#06** | **Hubert.G** | **6.174** | 2006 | Hardware- und Motortreiber-Spezialist. |
 | **#07** | **radbruch** | **5.387** | 2006 | Der legendäre Asuro-Tuner und langjährige Moderator. |
-| **#08** | **021aet04**| **4.833** | 2009 | Treuer Stammuser und Helfer der Neuzeit. |
+| **#08** | **021aet04**| **4.833** | 2005 | Treuer Stammuser und Helfer der Anfangszeit. |
 | **#09** | **HaWe** | **4.655** | 2014 | Dominanter Beitrags-Schreiber der Jahre 2016–2019. |
 | **#10** | **Richard** | **4.274** | 2006 | Analoge Schaltungstechnik & Praxis. |
 | **#11** | **uwegw** | **4.157** | 2005 | Pionier der 2000er-Jahre. |
