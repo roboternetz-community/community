@@ -38,7 +38,7 @@ xychart-beta
 2017: █ (206)
 2018: █ (178)  <-- Moppi steigt ein (Sofort #2)
 2019: █ (111)  <-- Moppi (#2) & HaWe tragen das Forum
-20: █ (99)   <-- Moppi (#1 mit 769 Posts)
+2020: █ (99)   <-- Moppi (#1 mit 769 Posts)
 2021: ▏ (58)
 2022: ▏ (46)
 2023: ▏ (31)
